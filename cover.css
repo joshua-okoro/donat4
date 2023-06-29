@@ -1,0 +1,23 @@
+body{
+    background: url("IMG_3567.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.con2,.con1{
+    width: 100px;
+   
+    margin:120px auto;
+    border-radius: 30px;
+    animation-name: animate;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+@keyframes animate{
+    from{
+        transform: rotate(0turn);
+    }to{
+        transform: rotate(1turn);
+    }
+}

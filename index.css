@@ -1,0 +1,2348 @@
+@media screen and (min-width:360px) {
+    * {
+            margin: 0;
+        padding: 0;
+    }
+    
+    .container,.container1,.container3,.container6,.container4{
+        width: 360px;
+        height: 5170px;
+        background-color: yelow;
+        border: 2px solid rgb(210, 0, 0);
+       padding-right: 10px;
+        
+    }
+      .allcontainer {
+            background: url("IMG_3567.JPG");
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+        }
+    
+        .con2,
+        .con1 {
+            width: 100px;
+    
+            margin: 120px auto;
+            border-radius: 30px;
+            animation-name: animate;
+            animation-duration: 2s;
+            animation-iteration-count: infinite;
+        }
+    
+        @keyframes animate {
+            from {
+                transform: rotate(0turn);
+            }
+    
+            to {
+                transform: rotate(1turn);
+            }
+        }
+  
+    
+    .footdonate{
+        margin-top: -130px;
+    
+    }
+   .help{
+    width: 350px;
+    margin: auto;
+margin-left: -10px;
+margin-top: -10px;
+
+   }
+   .footdonate5{
+    position: absolute;
+    margin-top: 1px;
+   }
+   .for{
+padding-top: 5px;
+width: 330px;
+margin-left: 10px;
+font-style: italic;
+opacity: 0.6;
+
+
+   }
+   .for1{
+    position: relative;
+ margin-top: 10px;
+   }
+    
+   
+    .form{
+        width: 300px;
+        height: 1000px;
+        margin-top: 100px;
+        position: absolute;
+    }
+    .form1{
+        width: 300px;
+        height: 1000px;
+        background-color: red;
+        position: relative;
+    }
+    .vid{
+        width: 300px;
+        height: 300px;
+        background-color: red;
+        position: absolute;
+        margin-top: 5000px;
+        position: absolute;
+
+    }
+    .video1{
+        margin-top: 1250px;
+        width: 360px;
+        position: absolute;
+    }
+  
+        .call{
+            color: white;
+        
+           margin-top: 200px;
+           margin-left: 33000px;
+        }
+        .bi-whatsapp{
+            margin-left: 200px;
+            
+        }
+        .whatsapp{
+            position: absolute;
+            color: green;
+        }
+        .bi-whatsapp{
+            margin-left: 100px  ;
+
+        }
+        .bi-whatsapp{
+            margin-top: 30px;
+            position: absolute;
+            margin-left: 200px;
+        }
+       .aboy{
+        width: 330px;
+        text-decoration: none;
+        color: black;
+       }
+       
+        .wecare1{
+            margin-top: 570px;
+            position: absolute;
+            width: 330px;
+           margin-left: 10px;
+           opacity: 0.5;
+        }
+       
+        .footdonate2{
+            margin-top: -380px;
+            position: fixed;
+        }
+       
+        .unidonate{
+            width:200px;
+            height: 40px;
+            border: 2px solid white;
+            margin-left: 75px;
+                border-radius: 20px;
+        }
+        .btc{
+            display: block;
+            width: 150px;
+            color: white;
+            background-color: rgb(0, 0, 0);
+            font-size: 20px;
+            text-transform: uppercase;
+            font-style: normal;
+            margin-left: 5px;
+            padding-left: 8px;
+            border: 2px solid blue;
+            border-radius: 10px;
+        }
+        .click{
+            font-style: normal;
+            text-decoration: none;
+            color: white;
+            font-size: 20px;
+            text-transform: uppercase;
+           padding-left: 9px ;
+        }
+        .click1{
+            width: 200px;
+            background-color: rgb(0, 0, 0);
+            border-radius: 10px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            border: 2px solid blue;
+        }
+        .don{
+            font-size: 25px;
+            margin-left: 45px;
+            position: absolute;
+            text-transform: uppercase;
+            text-decoration: none;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 6px;
+            color: orangered;
+        
+        }
+        .icon2{
+            margin-top: -px;
+            position: absolute;
+        }
+        
+    
+        .topcon {
+            width: 360px;
+            height: 40px;
+            position: relative;
+    
+    
+        }
+        .address{
+            font-size: 14px;
+            margin-left: 10px;
+            position: absolute;
+            margin-top: 10px;
+        }
+    
+        .logo {
+            width: 50px;
+            position: absolute;
+            margin-left: 5px;
+            margin-top: 5px;
+        }
+    
+        .bi-justify {
+            margin-top: 5px;
+            position: absolute;
+            z-index: 1;
+            margin-left: 330px;
+            cursor: pointer;
+            color: rgb(24, 13, 187);
+            height: 50px;
+         
+          
+        }
+        .changeimg{
+            width: 356px;
+            position: relative;
+            
+        }
+       
+        .aswe{
+            position: absolute;
+            width: 330px;
+          margin-left: 2px;
+          margin-left: 10px;
+          opacity: 0.6;
+     
+        }
+        .hoiliness{
+            position: absolute;
+            margin-top: 200px;
+            color: black;
+            text-transform: capitalize;
+            font-style: italic;
+                opacity: 0.6;
+
+        }
+       
+       
+
+                .black,
+                .imgcon {
+                    width: 360px;
+                    height: 400px;
+                    background-color: black;
+                    color: rgb(237, 149, 18);
+                    margin: 20px auto;
+                    margin-top: 20px;
+                    position: relative;
+                }
+        .md1{
+            width: 150px;
+            border-radius: 50%;
+            margin-top: 20px;
+        
+        }
+        .md{
+
+            width: 200px;
+            position: relative;
+            margin-left: 100px;
+        }
+                .virtual {
+                    margin: 150px 130px auto;
+                    position: absolute;
+                    font-family: Arial, Helvetica, sans-serif;
+                    text-transform: uppercase;
+                    font-size: 25px;
+        
+                }
+                .paymentcon{
+                   margin: 100px auto;
+                 
+                
+                }
+        
+                .the {
+                    display: block;
+                    margin-left: 12px;
+                }
+        
+                .is {
+                    position: absolute;
+                    display: block;
+                    margin-left: 4px;
+                    width: 200px;
+        
+                }
+        
+                .text {
+                    width: 30px;
+                    height: 200px;
+                    background-color: red;
+                    position: absolute;
+                }
+                .changeimg{
+                    width: 336px;
+                    height: 300px;
+                    border: 2px solid blue;
+                    box-shadow: 1px 1px 1px 2px blue;
+                    position: absolute;
+                   margin-top: 250px;
+                   margin-left: 9px;
+                  
+                }
+        
+                .discover {
+                    width: 150px;
+                    height: 50px;
+                    position: absolute;
+                    background-color: rgb(255, 94, 0);
+                    margin-top: 320px;
+                    margin-left: 20px;
+                    border-radius: 10px;
+                 }
+        .allimage{
+            position: absolute;
+            
+        }
+                .dis {
+                    margin-top: 15px;
+                    margin-left: 28px;
+        
+                }
+                .changeimg{
+                  
+                    position: absolute;
+                }
+                .allimage{
+                    position: absolute;
+                    width: 336px;
+                    height: 300px;
+                }
+                
+        
+                .disc {
+                    color: white;
+                    text-decoration: none;
+                }
+        
+                .image01 {
+                    width: 309px;
+                    position: absolute;
+                    margin-top: -20px;
+                    box-shadow: 1px 1px 3px 6px rgb(199, 198, 198);
+        
+                }
+        
+                .image1,
+                .real {
+                    margin: 20px auto;
+                    position: absolute;
+                    margin-left: 4px;
+                    width: 320px;
+                    height: 180px;
+        
+        
+        
+                }
+        
+                .footdonate1 {
+                    margin-left: 10px;
+                    margin-top: 1000px;
+                    margin-left: 970px;
+                    position: absolute;
+                    position: fixed;
+                    animation-name: dona;
+                    animation-iteration-count: infinite;
+                    animation-duration: 2s;
+                    animation-direction: alternate;
+        
+                }
+        
+                .img1con,
+                .img2con,
+                .img3con,
+                .campaign,
+                .report1,
+                .img1con20,
+                .paymentcon {
+                    width: 320px;
+                    height: 500px;
+                    backgrond-color: red;
+                    margin-left: 25px;
+                    position: relative;
+                    margin-top: 40px;
+                    box-shadow: 1px 1px 15px 1px gray;
+                    font-style: italic;
+        
+                }
+                .copy,.inst{
+                    font-style: normal;
+                    width: 1px;
+                 
+                    
+                }
+                .copy1{
+                   left: 283px;
+                   position: absolute;
+                   top: 421px;
+                   width: 50px;
+                   background-color: black;
+                   height: 20px;
+                   border: 2px solid blue;
+                 
+                   
+                }
+               
+                .copy3{
+                    color: white;
+                    left: 16px;
+                    position: absolute;
+                }
+                .paymentcon{
+               
+                    width: 330px;
+                    margin:100px auto;
+                    padding: 10px;
+                }
+                .bi-bookmarks{
+                    top: 3px;
+                    position: absolute;
+                }
+                .wamcon1{
+                    width: 270px;
+                    font-size: 12px;
+                padding-left: 10px;
+              border: 2px solid blue;
+              background-color: rgb(0, 0, 0);
+              color: white;
+              margin-bottom: 10px;
+         
+              height: 20px;
+              border-right: none;
+          
+                }
+                .bi-bookmarks{
+                    color: white;
+                }
+                .copy{
+                    color: blue;
+                }
+                .fea,
+                .feacamp {
+                    position: absolute;
+                    z-index: 1;
+                    margin-top: 235px;
+                    font-size: 10px;
+                    color: white;
+                    opacity: 0.7;
+                    margin-left: 15px;
+                }
+        
+                .tech,
+                .techwoman,
+                .techchi {
+                    width: 200px;
+                    font-size: 15px;
+                    position: absolute;
+                    margin-top: 250px;
+                    padding-left: 20px;
+                    text-decoration: none;
+                    color: black;
+                    text-transform: uppercase;
+                    font-family: Arial, Helvetica, sans-serif;
+                    text-transform: capitalize;
+        
+                }
+        
+                .facility,
+                .facilityyoung,
+                .facilitychi {
+                    margin: 5px;
+                
+                }
+        
+                .learn {
+                    position: absolute;
+                    margin-top: 370px;
+                    margin-left: 30px;
+                    text-transform: capitalize;
+                    border-bottom: 3px solid rgb(255, 94, 0);
+                    ;
+                }
+                .wecare1{
+                    font-style: italic;
+                    opacity: 0.6;
+                }
+        
+                .coute {
+        
+                    position: absolute;
+                    color: black;
+                    margin-top: 100px;
+                    color: white;
+        
+                }
+        
+                .countme {
+                    background-color: yellow;
+                    width: 200px;
+                    height: 100px;
+                    position: absolute;
+                }
+        
+                .more {
+                    color: rgb(0, 0, 0);
+                    text-decoration: none;
+                }
+        
+                .see {
+                    width: 200px;
+                    height: 30px;
+                    border: 2px solid rgb(255, 94, 0);
+                    margin-top: 40px;
+                    position: absolute;
+                    margin-left: 75px;
+        
+                }
+        
+                .lates {
+                    padding-left: 50px;
+                    padding-top: 5px;
+                    color: rgb(255, 94, 0);
+                }
+        
+                .latest {
+                    color: rgb(255, 94, 0);
+                    text-decoration: none;
+                }
+        
+                .take {
+                    font-family: Arial, Helvetica, sans-serif;
+                    text-transform: capitalize;
+                    color: white;
+        
+                }
+        
+                .syrial {
+                    font-family: Arial, Helvetica, sans-serif;
+                    text-transform: capitalize;
+                    color: white;
+                    margin-top: 20px;
+                }
+        
+                .action {
+                    padding-left: 20px;
+                    margin-top: 120px;
+                    width: 350px;
+                    background-color: rgb(255, 94, 0);
+                    color: white;
+                    height: 500px;
+                }
+        
+                .as {
+                    margin-top: 10px;
+                }
+        
+                .donate1 {
+                    width: 300px;
+                    height: 40px;
+                    background-color: white;
+                    border-radius: 5px;
+        
+                }
+        
+                .today {
+                    color: rgb(255, 94, 0);
+                    margin-left: 100px;
+                    padding-top: 10px;
+                    margin-top: 20px;
+                }
+               
+        
+                .today1 {
+                    color: rgb(255, 94, 0);
+                    text-decoration: none;
+                    text-transform: capitalize;
+                    font-family: Arial, Helvetica, sans-serif;
+        
+                }
+        
+                .woman {
+                    width: 320px;
+                    margin-left: px;
+                    margin-top: -1px;
+                    position: absolute;
+                }
+        
+                .features {
+                    margin-top: 150px;
+                    margin-left: 40px;
+                }
+        
+                .image02 {
+                    width: 310px;
+                    margin-left: 50px;
+                    box-shadow: 1px 1px 3px 6px rgb(199, 198, 198);
+                    margin-left: 1px;
+                    margin-top: -16px;
+                }
+                
+                
+        
+                .camphead {
+                    margin-top: 20px;
+                    margin-left: 30px;
+                    color: white;
+                    opacity: 0.7;
+                    font-family: Arial, Helvetica, sans-serif;
+                }
+        
+                .billion {
+                    text-decoration: none;
+                    padding-top: 20px;
+                    position: absolute;
+                    color: black;
+                    text-transform: capitalize;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 18px;
+                }
+        
+                .report2 {
+                    font-size: 12px;
+                    margin-top: 40px;
+                    opacity: 0.7;
+                }
+        
+                .virtual4 {
+                    color: white;
+                    margin: 60px auto;
+                    margin-left: 130px;
+                }
+        
+                .real {
+                    width: 321px;
+                    height: 200px;
+                    background-color: black;
+                    margin-left: -1px;
+                    margin-top: -1px;
+                    animation-name: real;
+                    animation-duration: 2s;
+                    animation-direction: alternate;
+                    animation-iteration-count: infinite;
+        
+                }
+        
+                .feacamp {
+                    margin-top: 215px;
+                }
+        
+                .facilityyoung {
+                    font-size: 10px;
+                    text-transform: lowercase;
+                    margin-top: 20px;
+                }
+        
+                .thevirtual {
+                    font-size: 15px;
+                }
+        
+                @keyframes real {
+                    0% {
+                        background-color: rgb(97, 97, 8);
+                    }
+        
+                    66% {
+                        background-color: rgb(9, 93, 5);
+                    }
+                }
+        
+                .footer,.footer1,.footer2,.footer3,.footer4,.footer5,.footer6,.footer7,.footer8,.footer10 {
+                    width: 360px;
+                    height: 200px;
+                    background-color:  rgb(0, 35, 94);
+
+                    margin-top: 800px;
+                    margin-left: -1px;
+                    position: absolute;
+     
+                }
+               
+                .footer8{
+                    margin-top: 150px;
+                    margin-left: -33px;
+                    width: 386px;
+                }
+                .bi-twitter{
+                    margin-left: 80px;
+                    color: white;
+                }
+                .bi-facebook{
+                    margin-left: 80px;
+                    color: white;
+                    margin-top:120px;
+                }
+                .bi-instagram{
+                    margin-left: 80px;
+                    color: white;
+                }
+               
+                .footer6{
+                    width: 361px;
+                }
+                .footer5{
+                    margin-top: 3px;
+                    width: 360px;
+                   
+                
+                }
+                .footer7{
+                    margin-top: 1px;
+                    position: absolute;
+                   
+                }
+                .footer4{
+                    margin-top: 50px;
+                    position: absolute;
+                }
+                .footer3{
+                    margin-top: 950px;
+                    width: 361px;
+                }
+                .footer2{
+                    margin-top: -130px;
+                    position: absolute;
+                    width: 361px;
+                }
+        
+                .coute {
+                    background-color: rgb(217, 5, 5);
+                    width: 300px;
+                    height: 530px;
+                    position: absolute;
+                    margin-left: 200px;
+                    margin-top: 200px;
+        
+                }
+                .edu{
+                    width: 300px;
+                    height: 250px;
+                    position: absolute;
+                    
+                }
+                .educationdonate {
+                     margin-top: 680px;
+                     position: absolute;
+                     margin-left: 29px;
+                
+                 }
+                 .footer{
+                    position: absolute;
+                    margin-top: 1600px;
+                 }
+                 .ecucon{
+                    position: absolute;
+                    width: 360px;
+                    height: 250px;
+                    background-color: blue;
+                    margin-top: 970px;
+                    
+                 }
+                 .stuniversity{
+                    width: 300px;
+                    padding: 20px 20px;
+                    font-size: 20px;
+                    color: white;
+                 }
+             
+        
+                .continuecounte {
+                    width: 200px;
+                    height: 50px;
+                    background-color: orange;
+                    position: absolute;
+                    border-radius: 20px;
+                    margin-top: -3480px;
+                }
+               
+        
+                .continuecounte1 {
+                    width: 100px;
+                    height: 50px;
+                    background-color: white;
+                    position: absolute;
+        
+                }
+        
+                .label1 {
+                    margin-top: 10px;
+                    position: absolute;
+                    font-size: 30px;
+                    margin-left: 20px;
+                }
+        
+        
+                .logo2 {
+                    width: 80px;
+                    position: absolute;
+                    margin-top: 10px;
+                    margin-left: 10px;
+        
+        
+                }
+        
+                .donate12,
+                .donate13 {
+                    position: absolute;
+                    color: white;
+                    z-index: 1;
+                    width: 200px;
+                    height: 40px;
+                    background-color: red;
+                    margin-top: 150px;
+                    margin-left: 80px;
+                    border-radius: 10px;
+                    animation-name: dona;
+                    animation-iteration-count: infinite;
+                    animation-duration: 2s;
+                    animation-direction: alternate;
+        
+                }
+                .bi-house-door-fill{
+                    color: red;
+                    position: absolute;
+                    
+                    left: 320px;
+                    margin-top: -10px;
+                    color: rgb(61, 61, 155);
+
+                }
+        
+                .donate13 {
+                    margin-top: -3450px;
+                    margin-left: 150px;
+                    position: fixed;
+                }
+                .bi-house-door{
+                    position: absolute;
+                    left: 320px;
+                    top: 25px;
+                    color: rgb(61, 61, 143);
+                }
+               
+        
+                .alldonate {
+                    margin-left: 50px;
+                    margin-top: 9px;
+                    position: absolute;
+                    text-decoration: none;
+                    color: white;
+                    text-transform: uppercase;
+                    font-family: Arial, Helvetica, sans-serif;
+                    width: 200px;
+                }
+        
+                .narve1 {
+                    width: 240px;
+                    height: 300px;
+                    background-color: black;
+                    margin-left: 20px;
+                    margin-top: -3788px;
+                    position: absolute;
+                    display: none;
+                    position: absolute;
+                    border: 2px solid white;
+                    margin-left: 113px;
+                    transition: 2s;
+                    transform: translateX("100px");
+                }
+                .number{
+                    color: white;
+                    position: absolute;
+                    margin-top: 30px;
+                    margin-left: 230px;
+                }
+        
+                .who {
+                    display: block;
+                    border-bottom: 1px solid rgb(89, 86, 86);
+                    text-decoration: none;
+                    color: white;
+                    width: 200px;
+                    text-transform: uppercase;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 10px;
+                    padding: 7px;
+                    opacity: 0.7;
+                }
+        
+                .what {
+                    display: block;
+                    border-bottom: 1px solid rgb(89, 86, 86);
+                    text-decoration: none;
+                    color: white;
+                    width: 200px;
+                    text-transform: uppercase;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 10px;
+                    padding: 7px;
+                    opacity: 0.7;
+                }
+        
+                .human {
+                    display: block;
+                    border-bottom: 1px solid rgb(89, 86, 86);
+                    text-decoration: none;
+                    color: white;
+                    width: 200px;
+                    text-transform: uppercase;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 10px;
+                    padding: 7px;
+                    opacity: 0.7;
+                }
+        
+                .alllatest {
+                    display: block;
+                    border-bottom: 1px solid rgb(89, 86, 86);
+                    text-decoration: none;
+                    color: white;
+                    width: 200px;
+                    text-transform: uppercase;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 10px;
+        
+                    padding: 7px;
+                    opacity: 0.7;
+                }
+                                .wall {
+                                    width: 300px;
+                                    height: 40px;
+                                    border: 2px solid black;
+                                  position: relative;
+                                    margin-top: 1000px;
+                                    margin:60px auto;
+                                    border-radius: 20px;
+                                  
+                                }
+        
+                .data {
+                    display: block;
+                    text-decoration: none;
+                    color: white;
+                    width: 200px;
+                    text-transform: uppercase;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 10px;
+                    padding: 7px;
+                    opacity: 0.7;
+        
+                }
+        
+                .content {
+                    padding-left: 15px;
+                    padding-top: 100px;
+                    position: absolute;
+        
+                }
+        
+                .donate6 {
+                    position: absolute;
+                    color: white;
+                    width: 100px;
+                    contain-intrinsic-height: 100px;
+                    background-color: red;
+                    margin-top: 30px;
+                    margin-left: 50px;
+                }
+        
+                .woman1,
+                .woman12 {
+                    width: 320px;
+                    height: 500px;
+                    background-color: rgb(255, 94, 0);
+                    margin-top: 20px;
+                    position: relative;
+        
+        
+                }
+        
+                .campaign {
+                    margin-top: 150px;
+                }
+        
+                .earth {
+                    font-size: 15px;
+                    position: absolute;
+                    z-index: 1;
+                    color: black;
+                    margin-top: 320px;
+                    font-family: Arial, Helvetica, sans-serif;
+                    padding-left: 8px;
+                    text-transform: uppercase;
+                }
+        
+                .earth1 {
+                    font-size: 13px;
+                    position: absolute;
+                    z-index: 1;
+                    color: black;
+                    margin-top: 370px;
+                    font-family: Arial, Helvetica, sans-serif;
+                    padding-left: 8px;
+                }
+        
+                .awoman {
+                    width: 80px;
+                    height: 30px;
+                    background-color: rgb(0, 0, 0);
+                    position: absolute;
+                    margin-top: 440px;
+                    border-radius: 6px;
+                    margin-left: 15px;
+                }
+        
+                .womanread {
+                    margin-left: 30px;
+                    margin-left: 7px;
+                    padding-top: 10px;
+                    text-decoration: none;
+                    color: rgb(255, 94, 0);
+                    text-transform: capitalize;
+                    margin-top: -2px;
+                }
+        
+                .container1 {
+                    height: 500px;
+        
+                }
+        
+                .woman12 {
+                    margin-left: 20px;
+                }
+        
+                .mona {
+                    width: 360px;
+                    height: 300px;
+                    margin: auto;
+                    box-sizing: border-box;
+        
+        
+        
+        
+                }
+        
+                .monaconent {
+                    width: 330px;
+                  margin-left: 10px;
+                   font-size: 17px;
+                }
+        
+                .monacontent1,
+                .monacontent11,
+                .monacontent17 {
+                    margin-top: 20px;
+                    border: 2px solid gry;
+                    width: 360px;
+                    margin: auto;
+                    height: 740px;
+                    position: relative;
+                    box-shadow: 1px 1px 15px 1px gray;
+                    background-color: white;
+                }
+        
+                .womandonanete,
+                .womandonanete1{
+                    width: 150px;
+                    border: 2px solid orange;
+                    margin-top: 15px;
+                    margin-left: 20px;
+                    background-color: white;
+                }
+                .container2{
+                    margin:1px 5px auto;
+                    
+                }
+               
+        
+                .wd {
+                    margin-left: 45px;
+        
+                }
+        
+                .wod {
+                    color: black;
+                    text-decoration: none;
+        
+                }
+        
+                .container3,.container4 {
+                    background-color: rgb(255, 255, 255);
+                    height: 960px;
+                    position: absolute;
+                    margin-top: 25px;
+              
+                }
+                .container4{
+                    width: 360px;
+                    height: 1000px;
+                    position: absolute;
+                    box-shadow: 2px 2px 5px 1px gray;
+                }
+                .footer1{
+                    margin-top: 900px;
+                    width: 352px;
+                }
+                           
+                           .footer10{
+                            margin-top: 1000px;
+                            width: 360px;
+                           }
+        
+                .facilitychi {
+                    width: 310px;
+                    height: 340px;
+                     margin-top: -10px;
+                    font-size: 14px;
+                    margin-left: -11px;
+                    position: absolute;
+        
+                }
+                .facilitychi{
+                    font-style: normal;
+                    text-transform: lowercase;
+                }
+        
+                .img1con20 {
+                    height: 580px;      
+                   margin:30px auto;
+                  
+                   
+                   
+                }
+        
+                .wecare {
+                    visibility: hidden;
+                    position: absolute;
+                }
+        
+                .isreal {
+                    visibility: hidden;
+                    position: absolute;
+                }
+        
+                .the1 {
+                    visibility: hidden;
+                    position: absolute;
+                }
+        
+                .container6 {
+                    height: 680px;
+                  
+                }
+        
+                .womandonanete1,.womandonanete2 {
+                    margin-top: -60px;
+                    position: absolute;
+                    margin-left: 100px;
+                }
+        
+                .donat2 {
+                    margin-left: 20px;
+                }
+        
+                .dona {
+                    color: white;
+                    text-decoration: none;
+                    text-transform: capitalize;
+                }
+        
+                .imgcon {
+                    position: absolute;
+                    overflow: hidden;
+                    width: 360px;
+                    height: 400px;
+                    margin-top: -1px;
+                }
+        
+                .img10 {
+                    width: 600px;
+                    height: 501px;
+                    position: absolute;
+                    transition: 2s;
+        
+                }
+        
+                #img1 {
+                    background-image: url("IMG_9175.JPG");
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    background-size: cover;
+        
+        
+                }
+        
+                #img2 {
+                    background-image: url("IMG_9172.JPG");
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    background-size: cover;
+        
+        
+                }
+        
+                #img3 {
+                    background-image: url("IMG_9173.JPG");
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    background-size: cover;
+        
+        
+                }
+        
+                .live {
+                    margin-left: 250px;
+        
+                }
+        
+                .live1 {
+                    color: white;
+                    margin-top: 30px;
+                    position: absolute;
+                    text-decoration: none;
+                }
+        
+                .carewe {
+                    color: black;
+                    position: absolute;
+                    margin-top: 130px;
+                }
+        
+                .here {
+                    position: absolute;
+        
+                }
+        
+                .aboutus {
+                    text-transform: uppercase;
+                    margin: auto;
+                    margin-left: 100px;
+                    font-family: Arial, Helvetica, sans-serif;
+                }
+        
+                .monacontent11 {
+                    height: 900px;
+                }
+               
+        
+                .monacontent17 {
+                    height: 100px;
+                }
+        
+                .bi-x-circle {
+                    color: white;
+        
+                }
+        
+                .exitcon {
+                    margin-top: -80px;
+                    margin-left: 200px;
+                    position: absolute;
+                    width: 20px;
+                }
+        
+                .home {
+                    color: white;
+                    position: absolute;
+                    margin-top: -200px;
+                }
+        
+                .home1 {
+                    position: absolute;
+                    margin-top: -80px;
+                }
+        
+    
+}
+
+
+@media screen and (min-width:501px) {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    .container,
+    .container1,
+    .container3,
+    .container6 {
+        width: 1265px;
+        height: 5100px;
+        background-color: rgb(111, 0, 255);
+    }
+   #img1{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+   }
+   .black2{
+    width: 1265px;
+    height: 500px;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    margin-top: 10px;
+    animation-name: black2;
+    animation-duration: 2;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    
+   }
+   
+   @keyframes black2 {
+    20%{
+        background-color: red;
+    }
+        0% {
+            background-color: red;
+        }
+    
+   }
+
+    .topcon {
+        width: 1260px;
+        height: 40px;
+        position: relative;
+    }
+
+    .logo {
+        width: 50px;
+        position: absolute;
+        margin-left: 5px;
+        margin-top: 10px;
+    }
+    
+    .thevir,.wecare{
+        padding-left: 20px;
+        padding-top: 180px;
+        position: absolute;
+        text-transform: uppercase;
+        font-size: 60px;
+       color: rgb(251, 250, 248);
+    }
+    .black{
+      
+        padding-top: 50px;
+        position: absolute;
+       
+    }
+    .isreal{
+        display: block;
+        margin-left: 80px;    }
+    .black2{
+        color: white;
+       
+    }
+    .wecare{
+        width: 300px;
+        font-size: 20px;
+        position: absolute;
+        text-transform: capitalize;
+        margin-left: 910px;
+  margin-top: -10px;
+        
+    }
+
+    .bi-justify {
+        margin-top: 5px;
+        position: absolute;
+        z-index: 1;
+        margin-left: 1200px;
+        cursor: pointer;
+        color: red;
+        height: 30px;
+    }
+
+        .black,
+        .imgcon {
+            width: 360px;
+            height: 400px;
+            background-color: black;
+            color: rgb(237, 149, 18);
+            margin: 20px auto;
+            margin-top: -5px;
+            position: relative;
+        }
+       
+        .virtual {
+            margin: 150px 130px auto;
+            position: absolute;
+            font-family: Arial, Helvetica, sans-serif;
+            text-transform: uppercase;
+            font-size: 25px;
+        }
+    
+    
+        .the {
+            display: block;
+            margin-left: 12px;
+        }
+    
+    
+        .is {
+            position: absolute;
+            display: block;
+            margin-left: 4px;
+            width: 200px;
+    
+        }
+    
+        .text {
+            width: 30px;
+            height: 200px;
+            background-color: red;
+            position: absolute;
+        }
+    
+        .discover {
+            width: 150px;
+            height: 50px;
+            position: absolute;
+            background-color: rgb(255, 94, 0);
+            margin-top: 320px;
+            margin-left: 20px;
+            border-radius: 10px;
+        }
+    
+        .dis {
+            margin-top: 15px;
+            margin-left: 28px;
+    
+        }
+    
+        .disc {
+            color: white;
+            text-decoration: none;
+        }
+    
+        .image01 {
+            width: 800px;
+            position: absolute;
+            margin-top: -20px;
+            box-shadow: 1px 1px 3px 6px rgb(199, 198, 198);
+    
+        }
+    
+        .image1,
+        .real {
+            margin: 20px auto;
+            position: absolute;
+            margin-left: 4px;
+            width: 320px;
+            height: 180px;
+    
+    
+    
+        }
+    
+        .img1con,
+        .img2con,
+        .img3con,
+        .campaign,
+        .report1,
+        .img1con20 {
+            width: 812px;
+            height: 812px;
+            background-color: red;
+            margin-left: 25px;
+            position: relative;
+            margin-top: 40px;
+            box-shadow: 1px 1px 15px 1px gray;
+            margin:30px auto;
+    
+        }
+    
+        .fea,
+        .feacamp {
+            position: absolute;
+            z-index: 1;
+            margin-top: 235px;
+            font-size: 10px;
+            color: white;
+            opacity: 0.7;
+            margin-left: 15px;
+        }
+    
+        .tech,
+        .techwoman,
+        .techchi {
+            width: 200px;
+            font-size: 15px;
+            position: absolute;
+            margin-top: 250px;
+            padding-left: 20px;
+            text-decoration: none;
+            color: black;
+            text-transform: uppercase;
+            font-family: Arial, Helvetica, sans-serif;
+            text-transform: capitalize;
+    
+        }
+    
+        .facility,
+        .facilityyoung,
+        .facilitychi {
+            margin: 5px;
+            margin-top: 400px;
+        }
+    
+        .learn {
+            position: absolute;
+            margin-top: 370px;
+            margin-left: 30px;
+            text-transform: capitalize;
+            border-bottom: 3px solid rgb(255, 94, 0);
+            ;
+        }
+    
+        .more {
+            color: rgb(0, 0, 0);
+            text-decoration: none;
+        }
+    
+        .see {
+            width: 200px;
+            height: 30px;
+            border: 2px solid rgb(255, 94, 0);
+            margin-top: 40px;
+            position: absolute;
+            margin-left: 75px;
+    
+        }
+        .more{
+            margin-top: 400px;
+            position: absolute;
+            width: 70px;
+            border-bottom: 2px solid orange;
+          
+        }
+    
+        .lates {
+            padding-left: 50px;
+            padding-top: 5px;
+            color: rgb(255, 94, 0);
+        }
+    
+        .latest {
+            color: rgb(255, 94, 0);
+            text-decoration: none;
+        }
+    
+        .take {
+            font-family: Arial, Helvetica, sans-serif;
+            text-transform: capitalize;
+            color: white;
+    
+        }
+    
+        .syrial {
+            font-family: Arial, Helvetica, sans-serif;
+            text-transform: capitalize;
+            color: white;
+            margin-top: 20px;
+        }
+    
+        .action {
+            padding-left: 20px;
+            margin-top: 120px;
+            width: 340px;
+            background-color: rgb(255, 94, 0);
+            color: white;
+            height: 500px;
+        }
+    
+        .as {
+            margin-top: 10px;
+        }
+    
+        .donate1 {
+            width: 300px;
+            height: 40px;
+            background-color: white;
+            border-radius: 5px;
+    
+        }
+    
+        .today {
+            color: rgb(255, 94, 0);
+            margin-left: 100px;
+            padding-top: 10px;
+            margin-top: 20px;
+        }
+    
+        .today1 {
+            color: rgb(255, 94, 0);
+            text-decoration: none;
+            text-transform: capitalize;
+            font-family: Arial, Helvetica, sans-serif;
+    
+        }
+    
+        .woman {
+            width: 320px;
+            margin-left: px;
+            margin-top: -1px;
+            position: absolute;
+        }
+    
+        .features {
+            margin-top: 150px;
+            margin-left: 40px;
+        }
+    
+        .image02 {
+            width: 800px;
+            margin-left: 50px;
+            box-shadow: 1px 1px 3px 6px rgb(199, 198, 198);
+            margin-left: 1px;
+            margin-top: -16px;
+        }
+    
+        .camphead {
+            margin-top: 20px;
+            margin-left: 30px;
+            color: white;
+            opacity: 0.7;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    
+        .billion {
+            text-decoration: none;
+            padding-top: 20px;
+            position: absolute;
+            color: black;
+            text-transform: capitalize;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 18px;
+        }
+    
+        .report2 {
+            font-size: 12px;
+            margin-top: 40px;
+            opacity: 0.7;
+        }
+    
+        .virtual4 {
+            color: white;
+            margin: 60px auto;
+            margin-left: 130px;
+        }
+    
+        .real {
+            width: 321px;
+            height: 200px;
+            background-color: black;
+            margin-left: -1px;
+            margin-top: -1px;
+            animation-name: real;
+            animation-duration: 2s;
+            animation-direction: alternate;
+            animation-iteration-count: infinite;
+    
+        }
+    
+        .feacamp {
+            margin-top: 215px;
+        }
+    
+        .facilityyoung {
+            font-size: 10px;
+            text-transform: lowercase;
+            margin-top: 20px;
+        }
+    
+        .thevirtual {
+            font-size: 15px;
+        }
+    
+        @keyframes real {
+            0% {
+                background-color: rgb(97, 97, 8);
+            }
+    
+            66% {
+                background-color: rgb(9, 93, 5);
+            }
+        }
+    
+        .footer {
+            width: 360px;
+            height: 200px;
+        background-color: rgb(0, 0, 44);
+            margin-left: 35px;
+            margin-top: 20px;
+            margin-left: -1px;
+            position: relative;
+    
+        }
+    
+        .logo2 {
+            width: 80px;
+            position: absolute;
+            margin-top: 10px;
+            margin-left: 10px;
+        }
+    
+        .donate12,.donate13 {
+            position: absolute;
+            color: white;
+            z-index: 1;
+            width: 200px;
+            height: 40px;
+            background-color: red;
+            margin-top: 150px;
+            margin-left: 80px;
+            border-radius: 10px;
+            animation-name: dona;
+                animation-iteration-count: infinite;
+                animation-duration: 2s;
+                animation-direction: alternate;
+    
+        }
+        
+    
+        .alldonate {
+            margin-left: 50px;
+            margin-top: 9px;
+            position: absolute;
+            text-decoration: none;
+            color: white;
+            text-transform: uppercase;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    
+        .narve1 {
+            width: 240px;
+            height: 300px;
+            background-color: black;
+            margin-left: 20px;
+            margin-top: -3280px;
+            display: block;
+            position: fixed;
+            border: 2px solid white;
+            margin-left: 113px;
+            transition: 2s;
+            transform: translateX("100px");
+          
+          
+           
+         
+
+        }
+    
+        .who {
+            display: block;
+            border-bottom: 1px solid rgb(89, 86, 86);
+            text-decoration: none;
+            color: white;
+            width: 200px;
+            text-transform: uppercase;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 10px;
+            padding: 7px;
+            opacity: 0.7;
+        }
+    
+        .what {
+            display: block;
+            border-bottom: 1px solid rgb(89, 86, 86);
+            text-decoration: none;
+            color: white;
+            width: 200px;
+            text-transform: uppercase;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 10px;
+            padding: 7px;
+            opacity: 0.7;
+        }
+    
+        .human {
+            display: block;
+            border-bottom: 1px solid rgb(89, 86, 86);
+            text-decoration: none;
+            color: white;
+            width: 200px;
+            text-transform: uppercase;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 10px;
+            padding: 7px;
+            opacity: 0.7;
+        }
+    
+        .alllatest {
+            display: block;
+            border-bottom: 1px solid rgb(89, 86, 86);
+            text-decoration: none;
+            color: white;
+            width: 200px;
+            text-transform: uppercase;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 10px;
+    
+            padding: 7px;
+            opacity: 0.7;
+        }
+    
+        .data {
+            display: block;
+            text-decoration: none;
+            color: white;
+            width: 200px;
+            text-transform: uppercase;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 10px;
+            padding: 7px;
+            opacity: 0.7;
+    
+        }
+    
+        .content {
+            padding-left: 15px;
+            padding-top: 100px;
+            position: absolute;
+    
+        }
+    
+        .donate6 {
+            position: absolute;
+            color: white;
+            width: 100px;
+            contain-intrinsic-height: 100px;
+            background-color: red;
+            margin-top: 30px;
+            margin-left: 50px;
+        }
+    
+        .woman1,
+        .woman12 {
+            width: 320px;
+            height: 500px;
+            background-color: rgb(255, 94, 0);
+            margin-top: 20px;
+            position: relative;
+    
+    
+        }
+    
+        .campaign {
+            margin-top: 150px;
+        }
+    
+        .earth {
+            font-size: 15px;
+            position: absolute;
+            z-index: 1;
+            color: black;
+            margin-top: 320px;
+            font-family: Arial, Helvetica, sans-serif;
+            padding-left: 8px;
+            text-transform: uppercase;
+        }
+    
+        .earth1 {
+            font-size: 13px;
+            position: absolute;
+            z-index: 1;
+            color: black;
+            margin-top: 370px;
+            font-family: Arial, Helvetica, sans-serif;
+            padding-left: 8px;
+        }
+    
+        .awoman {
+            width: 80px;
+            height: 30px;
+            background-color: rgb(0, 0, 0);
+            position: absolute;
+            margin-top: 440px;
+            border-radius: 6px;
+            margin-left: 15px;
+        }
+    
+        .womanread {
+            margin-left: 30px;
+            margin-left: 7px;
+            padding-top: 10px;
+            text-decoration: none;
+            color: rgb(255, 94, 0);
+            text-transform: capitalize;
+            margin-top: -2px;
+        }
+    
+        .container1 {
+            height: 500px;
+    
+        }
+    
+        .woman12 {
+            margin-left: 20px;
+        }
+    
+        .mona {
+            width: 340px;
+            height: 300px;
+            margin: auto;
+            box-sizing: border-box;
+    
+    
+    
+    
+        }
+    
+        .monaconent {
+            width: 330px;
+            margin: auto;
+            margin-top: 30px;
+    
+        }
+    
+        .monacontent1,
+        .monacontent11,
+        .monacontent17 {
+            margin-top: 20px;
+            border: 2px solid gry;
+            width: 340px;
+            margin: auto;
+            height: 740px;
+            position: relative;
+            box-shadow: 1px 1px 15px 1px gray;
+            background-color: white;
+        }
+    
+        .womandonanete,
+        .womandonanete1 {
+            width: 150px;
+            border: 2px solid orange;
+            margin-top: 15px;
+            margin-left: 20px;
+            background-color: white;
+        }
+    
+        .wd {
+            margin-left: 45px;
+    
+        }
+    
+        .wod {
+            color: black;
+            text-decoration: none;
+          
+
+    
+        }
+    
+        .container3 {
+            background-color: rgb(255, 255, 255);
+            height: 760px;
+        }
+    
+        .facilitychi {
+            width: 300px;
+    
+            font-size: 14px;
+            margin-left: -11px;
+    
+        }
+    
+        .img1con20 {
+            height: 590px;
+            margin-top: 10px;
+        }
+    
+        .container6 {
+            height: 640px;
+        }
+    
+        .womandonanete1 {
+            margin-top: -70px;
+            position: absolute;
+            margin-left: 60px;
+        }
+    
+        .donat2 {
+            margin-left: 20px;
+        }
+    
+        .dona {
+            color: white;
+            text-decoration: none;
+            text-transform: capitalize;
+        }
+    
+        .imgcon {
+            position: absolute;
+            overflow: hidden;
+            width: 360px;
+            height: 400px;
+            margin-top: -1px;
+        }
+    
+        .img10 {
+            width: 600px;
+            height: 501px;
+            position: absolute;
+            transition: 2s;
+    
+        }
+    
+        #img1 {
+            background-image: url("IMG_9175.JPG");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+    
+    
+        }
+    
+        #img2 {
+            background-image: url("IMG_9172.JPG");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+    
+    
+        }
+    
+        #img3 {
+            background-image: url("IMG_9173.JPG");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+    
+    
+        }
+    
+        .live {
+            margin-left: 250px;
+    
+        }
+    
+        .live1 {
+            color: white;
+            margin-top: 30px;
+            position: absolute;
+            text-decoration: none;
+        }
+       
+    
+        .carewe {
+            color: black;
+            position: absolute;
+            margin-top: 130px;
+        }
+    
+        .here {
+            position: absolute;
+    
+        }
+    
+        .aboutus {
+            text-transform: uppercase;
+            margin: auto;
+            margin-left: 100px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    
+        .monacontent11 {
+            height: 900px;
+        }
+    
+        .monacontent17 {
+            height: 100px;
+        }
+    
+        .exit {}
+    
+        .bi-x-circle {
+            color: white;
+    
+        }
+    
+        .exitcon {
+            margin-top: -80px;
+            margin-left: 200px;
+            position: absolute;
+            width: 20px;
+        }
+    
+        .home {
+            color: white;
+            position: absolute;
+            margin-top: -200px;
+        }
+    
+        .home1 {
+            position: absolute;
+            margin-top: -80px;
+        }
+    
+        .wecare,.the1,.vir,.isreal{
+            visibility: visible;
+            position: absolute;
+        }
+        .isreal{
+            width: 300px;
+            display: flex;
+           
+        }
+      .narvecon{
+      display: block;
+      }
+      .bi-justify{
+        margin-left: 200px;
+      }
+      
+
+ .narve1{
+    display: block;
+    position:absolute;
+
+   
+ }
+ .wall {
+     width: 300px;
+     height: 40px;
+     border: 2px solid black;
+     position: relative;
+     margin-top: 1000px;
+     margin: 60px auto;
+     border-radius: 20px;
+    
+
+ }
+ .paymentcon{
+    margin:100px auto;
+
+ 
+ }
+
+ .action {
+     width: 1245px;
+     margin-top: 125px;
+ }
+
+ .woman1 {
+     width: 600px;
+     height: 750px;
+     margin: auto;
+
+ }
+
+ .woman {
+     width: 600px;
+     height: 600px;
+ }
+ .donate13 {
+     display: none;
+ }
+ .navcont {
+     display: flex;
+     width: 700px;
+     padding: 20px;
+     font-size: 70px;
+     border-bottom: none;
+     margin-top: -2040px;
+     position: absolute;
+     position: fixed;
+
+
+ }
+ .who,
+ .what,
+ .human,
+ .alllatest,
+ .data {
+     color: rgb(0, 0, 0);
+     border-bottom: none;
+     font-size: 15px;
+     font-weight: 400px;
+     font-family: Arial, Helvetica, sans-serif;
+
+ }
+ #icon1 {
+     display: none;
+ }
+ .narve1 {
+     background-color: none;
+     border: none;
+     margin-left: 300px;
+
+ }
+
+ .narve1 {
+     background-color: none;
+     width: 200px;
+
+ }
+ .exit,
+ .home,
+ .bi-x-circle {
+     display: none;
+ }
+
+ .report2 {
+     margin-top: 360px;
+ }
+
+ .virtual {
+     display: none;
+ }
+
+ .discover {
+     margin-top: -100px;
+     position: absolute;
+     margin-left: 150px;
+ }
+
+ .footer {
+     width: 1265px;
+ }
+ .footdonate1 {
+     margin-left: 200px;
+     margin-top: -4900px;
+     margin-left: 970px;
+     position: absolute;
+     position: fixed;
+     animation-name: dona;
+
+
+ }
+ .earth1 {
+     margin-top: 650px;
+     position: absolute;
+ }
+ .earth {
+     margin-top: 600px;
+ }
+
+ .campaign {
+     margin-top: 470px;
+ }
+ .awoman {
+     margin-top: 700px;
+ }
+
+ .facilitychi {
+     width: 800px;
+ }
+
+ .container6 {
+     height: 1000px;
+
+ }
+ .footdonate {
+     margin-left: 450px;
+ }
+
+ .img1con20 {
+     height: 870px;
+
+ }
+
+ .womandonanete1 {
+     margin-left: 550px;
+     margin-top: -100px;
+ }
+
+ .live {
+     margin-left: 1200px;
+ }
+
+ .see {
+     margin-left: 500px;
+ }
+
+ .features {
+     display: none;
+     position: absolute;
+ }
+ .narve1{
+    background-color: transparent;
+    position: relative;
+ }
+ .footer {
+     position: absolute;
+     margin-top: 1300px;
+ }
+ .wecare1,.educationdonate,.ecucon,.changeimg,.md,.aswe,.hoiliness,.vid,.video1{
+  margin-left: 500px;
+  position: absolute;
+ }
+ .aswe{
+    position: absolute;
+    margin-top: 140px;
+    width: 700px;
+    margin-left:300px;
+
+ }
+ .video1{
+    margin-top: 3240px;
+    margin-left: 1000px;
+ }
+ .md{
+    margin-left: 600px;
+ }
+ .hoiliness{
+    margin-top: 230px;
+ }
+ 
+}
+
+.content{
+    display: block;
+}
+
+
+
+.fixdonate{
+    position: absolute;
+    color: yellow;
+    width: 200px;
+    height: 2000px;
+
+}
+.data1{
+position: absolute;
+    color: yellow;
+}
+
+
+
+
+
+
